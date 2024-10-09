@@ -180,7 +180,7 @@ input#collegeSearch {
 /* Responsive Styles */
 @media (max-width: 1024px) {
   .container {
-    max-width: 90%;
+    max-width: 99%;
   }
 }
 
